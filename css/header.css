@@ -25,6 +25,11 @@
   font-size: 1.4rem;
   text-decoration: none;
   font-weight: bold;
+  color: #0b3d91;
+}
+
+.header-item:hover {
+  color: #0b3276;
 }
 
 .header-flex ul li:not(:last-child) {
